@@ -62,7 +62,7 @@ body {
     font-family: "Outfit", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .background {
-    background-color: hsla(220, 15%, 55%, .4);
+    background-color: hsl(212, 45%, 89%);
     width: 100vw;
     height: 100vh;
     display: grid;
@@ -90,7 +90,7 @@ body {
     margin-bottom: .5em;
 }
 .card p {
-    color: hsl(212, 45%, 89%);
+    color: hsl(220, 15%, 55%);
     font-weight: 400;
     font-size: 1.1em;
 }
